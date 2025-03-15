@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jilliechillie
-- 👀 I’m interested in video games, books, self-care, meditation, kpop, and anime
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in video games, books, self-care, meditation, goth & punk music, and anime
+- 🌱 I’m knowledgeable in Python, C++, JAVA, and other languages!
 - 💞️ I’m looking to collaborate on indie games
 - 📫 How to reach me: message me!
 - 😄 Pronouns: she/her
